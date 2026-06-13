@@ -3,3 +3,5 @@ node_modules/
 .venv/
 __pycache__/
 Data/synthea/
+Data/output/csv/claims_transactions.csv
+Data/output/csv/observations.csv
